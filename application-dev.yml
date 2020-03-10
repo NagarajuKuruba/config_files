@@ -1,1 +1,4 @@
-
+notification:
+  email:
+    recipient: kuruba.nagaraju@capgemini.com
+    sender: Jake.McAreavy@nbcuni.com
